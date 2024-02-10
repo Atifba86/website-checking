@@ -13,3 +13,4 @@ document.getElementById('close-btn').addEventListener('click', () => {
 	details.style.display = 'none';
 });
 
+
