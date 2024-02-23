@@ -12,4 +12,3 @@ document.getElementById('close-btn').addEventListener('click', () => {
 	const details = document.querySelector('.details');
 	details.style.display = 'none';
 });
-
